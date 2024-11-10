@@ -1,0 +1,17 @@
+cursor-ripple
+cursor-ripple@2x
+go
+hit300-0
+hit300g-0
+hit300k-0
+sliderendcircle
+sliderendcircleoverlay
+sliderpoint10
+sliderpoint30
+spinner-background
+spinner-glow
+spinner-middle
+spinner-osu
+spinner-spin
+spinner-top
+star2
